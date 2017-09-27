@@ -30,10 +30,4 @@ accuracy = clf.score(features_test, labels_test)
 print accuracy
 
 
-#########################################################
-### your code goes here ###
-
-
-#########################################################
-
 
